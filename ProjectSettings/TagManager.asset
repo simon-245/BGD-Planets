@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2713286881
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Planets
+    uniqueID: 2619273339
     locked: 0
